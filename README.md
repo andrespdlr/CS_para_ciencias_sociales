@@ -1,5 +1,4 @@
-
-Materiales con Métodos Computacionales para Ciencias Sociales [en Python]
+Métodos Computacionales para Ciencias Sociales [en Python]
 
 Es importante destacar la creciente relevancia de las herramientas computacionales
 para resolver los problemas que enfrentan las Ciencias Sociales, en buena medida
@@ -18,3 +17,6 @@ proceso de análisis y diseño de políticas públicas. Las herramientas que bri
 este curso permitirán a los alumnos llevar a cabo análisis geo-estadístico, minería
 de texto, consultar datos de manera automatizada, modificar y visualizar datos, al
 igual que construir modelos para el análisis de datos.
+
+
+En este repositorio se encuentran los materiales correspondientes a cada sesión.
